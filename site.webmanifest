@@ -1,6 +1,6 @@
 {
-  "name": "タイピングクエスト",
-  "short_name": "タイピングクエスト",
+  "name": "タイピングRPG",
+  "short_name": "タイピングRPG",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#061329",
